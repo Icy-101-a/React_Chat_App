@@ -29,12 +29,12 @@ import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
   // apiKey: import.meta.env.VITE_API_KEY,
-  apiKey: "AIzaSyDEH20oqw8FUbs5zLRLTN2tMuLeQQkoLDA",
-  authDomain: "reactchatapp-7a592.firebaseapp.com",
-  projectId: "reactchatapp-7a592",
-  storageBucket: "reactchatapp-7a592.appspot.com",
-  messagingSenderId: "125422764290",
-  appId: "1:125422764290:web:b6a640c806e777530e421b"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 const app = initializeApp(firebaseConfig);
